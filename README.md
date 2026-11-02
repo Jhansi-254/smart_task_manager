@@ -9,7 +9,7 @@ Users can create tasks, set priorities and deadlines, track progress, and spot o
 ## Features
 
 - **Add tasks** with title, description, category, priority (High / Medium / Low) and due date
-- **Manage tasks**: edit, delete (with confirmation), start, mark done, reopen
+- **Manage tasks**: edit, delete (with confirmation), start, mark done, reopen.
 - **Dashboard**: total, completed, pending and overdue counts, completion percentage, progress bar, high-priority tasks, recent tasks
 - **Deadline tracking**: overdue, due today and due-soon tasks are highlighted; completed tasks are never counted as overdue
 - **Search and filter**: search by title, filter by priority and status, sort by due date
